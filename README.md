@@ -1,2 +1,3 @@
 # chatRoom
-基于socket的聊天室
+node.js + socket.io
+http://chatroom.longquangege.cn/
